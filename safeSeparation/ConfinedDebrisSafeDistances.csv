@@ -1,32 +1,32 @@
-﻿Ref ID,Reference,Propellant,Configuration,Test #,Mass (kg),Fireball or Plume Distance (m),HF Measurement Distance (m),Av. Heat Flux (kW/m2),Burn time (s),Furthest Debris (m),HFD (m),Hazard Type,Type,Notes
-1,Kasun Structure Testing at China Lake as Documented in TM8742,M1,Kasun Structure,2,535,10.7,,,7.5,105,78,Debris,Confined Burn (Test Data),"HFD Based on Data for 79 J, 1/600ft2, MPTN for 100 grams or more "
-1,Kasun Structure Testing at China Lake as Documented in TM8742,M1,Kasun Structure,4,503,27,,,10,156,95,Debris,Confined Burn (Test Data),"HFD Based on Data for 79 J, 1/600ft2, MPTN for 100 grams or more "
-1,Kasun Structure Testing at China Lake as Documented in TM8742,M1,Kasun Structure,6,544.8,,,,,128,79,Debris,Confined Burn (Test Data),"HFD Based on Data for 79 J, 1/600ft2, MPTN for 100 grams or more "
-1,Kasun Structure Testing at China Lake as Documented in TM8742,M1,Kasun Structure,7,240.6,,,,,109,59,Debris,Confined Burn (Test Data),"HFD Based on Data for 79 J, 1/600ft2, MPTN for 100 grams or more "
-3,Joachim in Reference 47 in TM 8668 Page 295+,M1,Small Concrete Bunker with Vent Pipe,4,250,14,,,6,100,,Debris,Confined Burn (Test Data),Furthest distance estimated from roof cover coming off at 33 m/s ;Structure failed at 6 seconds
-4,Titan IV Accident Static Fire AIAA 92-3819,Rocket Propellant,Titan IV Rocket,1,314158,126,,,5,457,274,Debris,Confined Burn (Test Data),"HFD Estimated, Burn time estimated, HFD estimated as 0.6xMax Debris Distance"
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,10,,,,,,26,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,100,,,,,,44,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,100,,,,,,44,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,100,,,,,,46,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,26,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,26,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,26,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,24,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,50,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,46,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,46,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,48,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,46,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,42,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,40,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,48,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,50,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,78,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,5000,,,,,,62,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,5000,,,,,,58,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,5000,,,,,,71,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,10020,,,,,,60,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,10020,,,,,,66,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,10020,,,,,,94,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
-7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,10020,,,,,,92,Debris,Confined Burn (Modeling),HFD Based on 79J and 1/600 sq ft
+﻿Ref ID,Reference,Propellant,Configuration,Test #,Mass (kg),Fireball or Plume Distance (m),HF Measurement Distance (m),Av. Heat Flux (kW/m2),Burn time (s),Furthest Debris (m),HFD (m),Hazard: Source,Event Type,Notes
+1,Kasun Structure Testing at China Lake as Documented in TM8742,M1,Kasun Structure,2,535,10.7,,,7.5,105,78,Debris: Test Data,Confined,"HFD Based on Data for 79 J, 1/600ft2, MPTN for 100 grams or more "
+1,Kasun Structure Testing at China Lake as Documented in TM8742,M1,Kasun Structure,4,503,27,,,10,156,95,Debris: Test Data,Confined,"HFD Based on Data for 79 J, 1/600ft2, MPTN for 100 grams or more "
+1,Kasun Structure Testing at China Lake as Documented in TM8742,M1,Kasun Structure,6,544.8,,,,,128,79,Debris: Test Data,Confined,"HFD Based on Data for 79 J, 1/600ft2, MPTN for 100 grams or more "
+1,Kasun Structure Testing at China Lake as Documented in TM8742,M1,Kasun Structure,7,240.6,,,,,109,59,Debris: Test Data,Confined,"HFD Based on Data for 79 J, 1/600ft2, MPTN for 100 grams or more "
+3,Joachim in Reference 47 in TM 8668 Page 295+,M1,Small Concrete Bunker with Vent Pipe,4,250,14,,,6,100,,Debris: Test Data,Confined,Furthest distance estimated from roof cover coming off at 33 m/s ;Structure failed at 6 seconds
+4,Titan IV Accident Static Fire AIAA 92-3819,Rocket Propellant,Titan IV Rocket,1,314158,126,,,5,457,274,Debris: Test Data,Confined,"HFD Estimated, Burn time estimated, HFD estimated as 0.6xMax Debris Distance"
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,10,,,,,,26,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,100,,,,,,44,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,100,,,,,,44,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,100,,,,,,46,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,26,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,26,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,26,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,24,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,50,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,502,,,,,,46,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,46,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,48,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,46,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,42,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,40,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,48,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,50,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,998,,,,,,78,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,5000,,,,,,62,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,5000,,,,,,58,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,5000,,,,,,71,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,10020,,,,,,60,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,10020,,,,,,66,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,10020,,,,,,94,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
+7,"SMS, IVM Modeling, Unpublished Results",,Concrete Structure Similar to Kasun,1,10020,,,,,,92,Debris: Modeling,Confined,HFD Based on 79J and 1/600 sq ft
