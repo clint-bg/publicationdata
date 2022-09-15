@@ -1,4 +1,4 @@
-﻿Ref ID,Drum diameter (cm),Safe Distance (m),Burn rate (kg/s),Unique ID,Propellant type,Mass (kg),Notes,Event Type,Hazard: Source
+﻿Ref ID,Drum Diameter (cm),Safe Distance (m),Burn Rate (kg/s),Unique ID,Propellant Type,Mass (kg),Notes,Event Type,Hazard: Source
 Model,36,7.493089968,0.5,M1,Model,6.81,Mass estimated from burn rates (with base burn rate of 1 equal to one barrel with correlated mass),Unconfined,Heat Flux: Modeling
 Model,36,8.804849802,1,M2,Model,13.62,Mass estimated from burn rates (with base burn rate of 1 equal to one barrel with correlated mass),Unconfined,Heat Flux: Modeling
 Model,36,9.279850927,2,M3,Model,27.24,Mass estimated from burn rates (with base burn rate of 1 equal to one barrel with correlated mass),Unconfined,Heat Flux: Modeling
